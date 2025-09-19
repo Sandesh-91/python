@@ -10,4 +10,4 @@ else:
     if var:
         print(f"{n} is composite: ")
     else:
-        print(f"{n} is  prime: ")
+        print(f"{n} is  prime:")

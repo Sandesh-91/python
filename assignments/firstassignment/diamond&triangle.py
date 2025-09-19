@@ -12,3 +12,4 @@ for x in range(1,no+1):
     hold+=" " * (no-x) + "*" * (2*x-1)+ "\n"
 print("Triangle \n")
 print(hold)
+#diamond and triangle

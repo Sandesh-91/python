@@ -4,3 +4,4 @@ for x in range(1000,3000):
         print(f"{x}")
         count+=1
 print(count)   
+#primechecker
