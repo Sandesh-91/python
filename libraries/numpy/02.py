@@ -199,7 +199,7 @@ print(np.lcm(6,7))
 print(np.gcd(6,7))
 
 
-
+print()
 
 
 
