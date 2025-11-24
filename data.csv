@@ -1,4 +1,5 @@
-,name,address,phone
-Name,hello,janakinagar,9863580388
-Address,gaurav,motipur,9845298345
-Phone,puskar,kalikanagar,9812345678
+,name,address,phone,gender
+Name,sandesh,janakinagar,9863580388,male
+Address,gaurav,motipur,9845298345,male
+Phone,puskar,kalikanagar,9812345678,female
+Hello,anshul,belbas,9812345678,N/A
